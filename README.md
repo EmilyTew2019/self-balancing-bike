@@ -1,7 +1,6 @@
 # Self-Balancing Minibike
 
-**This project was inspired by the Arduino Engineering Kit Rev 2**, which features a self-balancing motorcycle controlled via MATLAB and Simulink.  
-Instead of using the kit, I built my own version from scratch using independently sourced components, C++ programming, and custom 3D-printed parts.
+**This project was inspired by the Arduino Engineering Kit Rev 2**, which features a self-balancing motorcycle controlled via MATLAB and Simulink. Instead of using the kit, I built my own version from scratch using independently sourced components, C++ programming, and custom 3D-printed parts.
 
 ---
 
